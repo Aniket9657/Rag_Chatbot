@@ -1,0 +1,1 @@
+A Retrieval-Augmented Generation (RAG) based chatbot that combines information retrieval with generative AI to deliver accurate, context-aware responses. The system retrieves relevant data from a knowledge base and uses a language model to generate meaningful answers, making it suitable for document search, Q&A systems, and intelligent assistants.
